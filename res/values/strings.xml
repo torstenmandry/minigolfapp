@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">minigolf-App</string>
+    <string name="sprunghoehe">S:</string>
+    <string name="haerte">H:</string>
+    <string name="gewicht">G:</string>
 </resources>
