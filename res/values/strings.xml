@@ -4,4 +4,7 @@
     <string name="sprunghoehe">S:</string>
     <string name="haerte">H:</string>
     <string name="gewicht">G:</string>
+    <string name="sprunghoehe_long">Sprunghöhe:</string>
+    <string name="haerte_long">Shorehärte:</string>
+    <string name="gewicht_long">Gewicht:</string>
 </resources>
